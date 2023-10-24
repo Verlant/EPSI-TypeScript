@@ -1,0 +1,18 @@
+{
+  "name": "biblioteque",
+  "version": "1.0.0",
+  "description": "Bibliothèque version console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  }
+}
